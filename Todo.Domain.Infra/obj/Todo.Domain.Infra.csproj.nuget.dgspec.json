@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {}
+    "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+    "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+        "projectUniqueName": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
         "projectName": "Todo.Domain.Infra",
-        "projectPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+        "projectPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
         "packagesPath": "C:\\Users\\lgome\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\obj\\",
+        "outputPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lgome\\AppData\\Roaming\\NuGet\\NuGet.Config",

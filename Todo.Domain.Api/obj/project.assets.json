@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectUniqueName": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "projectName": "Todo.Domain.Api",
-      "projectPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\lgome\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\obj\\",
+      "outputPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lgome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1479,8 +1479,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-              "projectPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
             },
             "C:\\dev\\Todo\\Todo-API\\Todo.Domain\\Todo.Domain.csproj": {
               "projectPath": "C:\\dev\\Todo\\Todo-API\\Todo.Domain\\Todo.Domain.csproj"
