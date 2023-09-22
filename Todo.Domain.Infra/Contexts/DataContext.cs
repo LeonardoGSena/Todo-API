@@ -14,12 +14,13 @@ public class DataContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<TodoItem>().Property(todoItem => todoItem.Id);
-        modelBuilder.Entity<TodoItem>().Property(todoItem => todoItem.User).HasMaxLength(120);
-        modelBuilder.Entity<TodoItem>().Property(todoItem => todoItem.Title).HasMaxLength(160);
-        modelBuilder.Entity<TodoItem>().Property(todoItem => todoItem.Done);
-        modelBuilder.Entity<TodoItem>().Property(todoItem => todoItem.Date);
-        modelBuilder.Entity<TodoItem>().HasIndex(todoItem => todoItem.User);
+        modelBuilder.Entity<TodoItem>().ToTable("Todo");
+        modelBuilder.Entity<TodoItem>().Property(x => x.Id);
+        modelBuilder.Entity<TodoItem>().Property(x => x.User).HasMaxLength(120).HasColumnType("varchar");
+        modelBuilder.Entity<TodoItem>().Property(x => x.Title).HasMaxLength(160).HasColumnType("varchar");
+        modelBuilder.Entity<TodoItem>().Property(x => x.Done).HasColumnType("bit");
+        modelBuilder.Entity<TodoItem>().Property(x => x.Date);
+        modelBuilder.Entity<TodoItem>().Property(b => b.User);
     }
 
 }

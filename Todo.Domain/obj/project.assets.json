@@ -33,19 +33,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vpxim\\.nuget\\packages\\": {}
+    "C:\\Users\\lgome\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\balta\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectUniqueName": "c:\\dev\\Todo\\Todo-API\\Todo.Domain\\Todo.Domain.csproj",
       "projectName": "Todo.Domain",
-      "projectPath": "C:\\balta\\Todo\\Todo.Domain\\Todo.Domain.csproj",
-      "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-      "outputPath": "C:\\balta\\Todo\\Todo.Domain\\obj\\",
+      "projectPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain\\Todo.Domain.csproj",
+      "packagesPath": "C:\\Users\\lgome\\.nuget\\packages\\",
+      "outputPath": "c:\\dev\\Todo\\Todo-API\\Todo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lgome\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -92,7 +92,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
